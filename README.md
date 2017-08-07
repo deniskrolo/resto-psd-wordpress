@@ -1,6 +1,3 @@
-_s
-===
-
 Wordpress theme tutorial
 ---------------
 
